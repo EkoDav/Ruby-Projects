@@ -1,4 +1,5 @@
-#Assignment 1 - Ruby by Erik Davis (CS390)
+#Ruby program to demonstrate simple Ruby functions and implement an number guessing game.
+#Written by Erik Davis
 
 #Print the string "Hello, world."
 puts 'Hello world'
