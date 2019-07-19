@@ -1,4 +1,5 @@
-#Ruby Programming Assignment 2 - Erik Davis CS390
+#Ruby Program to demonstrate functions of arrays using different constructs
+#By Erik Davis
 
 #Insert user chosen text file and search phrase here
 fileLocation = 'C:/Users/Erik/Desktop/test_text_1.txt'
