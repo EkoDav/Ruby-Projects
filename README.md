@@ -1,4 +1,3 @@
-# hello-world
-Just testing
+#Ruby Projects
 
-A little bit about myself...
+This repository contains simple projects written in Ruby completed during an undergradate Computer Science Program.
